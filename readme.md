@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for Github
 
 Added second comment for testing
+
+added comment 3
